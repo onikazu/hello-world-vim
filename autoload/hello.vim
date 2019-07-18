@@ -1,4 +1,4 @@
-script encoding utf-8
+scriptencoding utf-8
 " autoload 配下のファイルはvim 起動時に呼び出される
 " 関数定義を書けば良い
 " エンコーディング指定
